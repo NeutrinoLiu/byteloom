@@ -69,8 +69,9 @@ h1 {
 }
 
 .abstract {
-    max-width: 900px;
-    margin: 0 auto;
+    text-align: center;
+    /* max-width: 900px; */
+    margin: 0 2% auto 2%;
     text-align: justify;
     font-size: 1.1em;
     line-height: 1.8;
@@ -81,7 +82,7 @@ h1 {
     text-align: center;
     /* margin-bottom: 60px; */
     background: white;
-    padding: 40px 80px 40px 80px;
+    padding: 40px 2% 40px 2%;
     border-radius: 12px;
     /* box-shadow: 0 2px 8px rgba(0,0,0,0.1); */
 }
@@ -331,4 +332,11 @@ h3 {
     .comparison-item video {
         width: 250px;
     }
+}
+
+.affiliation-logo {
+    /* adaptive size */
+    height: 100px;
+    margin: 10px 20px;
+    vertical-align: middle;
 }
