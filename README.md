@@ -32,13 +32,11 @@ Human-object interaction (HOI) video generation has garnered increasing attentio
 ## Citation
 
 ```
-@misc{liu2025byteloomweavinggeometryconsistenthumanobject,
-      title={ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning}, 
-      author={Bangya Liu and Xinyu Gong and Zelin Zhao and Ziyang Song and Yulei Lu and Suhui Wu and Jun Zhang and Suman Banerjee and Hao Zhang},
-      year={2025},
-      eprint={2512.22854},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.22854}, 
+@article{liu2025byteloom,
+  title={ByteLoom: Weaving Geometry-Consistent Human-Object Interactions through Progressive Curriculum Learning},
+  author={Liu, Bangya and Gong, Xinyu and Zhao, Zelin and Song, Ziyang and Lu, Yulei and Wu, Suhui and Zhang, Jun and Banerjee, Suman and Zhang, Hao},
+  journal={arXiv preprint arXiv:2512.22854},
+  year={2025}
 }
+
 ```
