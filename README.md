@@ -24,7 +24,7 @@ Human-object interaction (HOI) video generation has garnered increasing attentio
 <img width="1661" height="567" alt="Screenshot 2025-12-31 at 6 02 20 PM" src="https://github.com/user-attachments/assets/5a8d7aed-7a46-4662-939b-7b46675d81b0" />
 
 ## Quantitive Result
-<img width="1344" height="297" alt="Screenshot 2025-12-31 at 6 12 04 PM" src="https://github.com/user-attachments/assets/86512f6b-d208-4be9-8834-7ed55043a125" />
+<img width="917" height="338" alt="quantitive_scores_on_Mani4D-Test" src="https://github.com/user-attachments/assets/aa94628b-ad4c-4f6a-872f-bcfa6651c7c9" />
 
 ## TODO
 - [x] _release Mani4D-Test dataset_ : https://huggingface.co/datasets/byteloom-HOI/Mani4D_test
